@@ -1,0 +1,1 @@
+SELECT * FROM sqldb.elec_buytbl_new;
